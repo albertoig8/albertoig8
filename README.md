@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertoig8&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-
+  ![Snake animation](https://github.com/albertoig8/albertoig8/blob/output/github-contribution-grid-snake.svg)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,6 +31,4 @@
   <a href = "mailto:albertoig8@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
     <a href="https://app.slack.com/client/T02CY9NLD4P/C02E2KUNS6L" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/albertoig8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
-   ![Snake animation](https://github.com/albertoig/albertoig8/blob/output/github-contribution-grid-snake.svg)
   </div>
