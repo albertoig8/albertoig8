@@ -7,7 +7,7 @@
 - 📫 Contate-me no E-mail: albertoaraujo019@gmail.com
 - 😄 Pronouns: Ele/Dele
 
-  ![Snake animation](https://github.com/albertoig8/albertoig8/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/albertoig8/albertoig8/blob/output/github-contribution-grid-snake.svg)
 
  <div>
   <a href="https://github.com/albertoig8">
