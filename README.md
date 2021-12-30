@@ -1,7 +1,7 @@
 ## Oi! Eu sou o Alberto Araujo ##
 
-- 🔭 Hoje trabalho com Full Stack em projetos pessoais
-- 🌱 No momento estou aprendendo React e Python
+- 🔭 Hoje trabalho como desenvolvedor Full Stack em C&A Modas.
+- 🌱 No momento estou aprendendo React e .Net
 - 🤔 IEstou procurando ajuda com React e Typscrypt
 - 💬 Pergunte-me sobre Python, HTML, CSS
 - 📫 Contate-me no E-mail: albertoaraujo019@gmail.com
