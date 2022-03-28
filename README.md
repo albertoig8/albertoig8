@@ -1,9 +1,9 @@
 ## Oi! Eu sou o Alberto Araujo ##
 
 - 🔭 Hoje trabalho como desenvolvedor Full Stack em C&A Modas.
-- 🌱 No momento estou aprendendo React e .Net
-- 🤔 Estou procurando ajuda com React e Typscrypt
-- 💬 Pergunte-me sobre Python, HTML, CSS
+- 🌱 No momento estou aprendendo React, C#, .Net
+- 🤔 Estou procurando ajuda com React, Typscrypt, C#, DotNet
+- 💬 Pergunte-me sobre C#, DotNet, SQL
 - 📫 Contate-me no E-mail: albertoaraujo019@gmail.com
 - 😄 Pronouns: Ele/Dele
 
